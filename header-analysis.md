@@ -9,6 +9,6 @@ While the "From" address displayed as "Outlook Support Team," the actual "From" 
 "From: Outlook Support Team <social201511138@social.helwan.edu.eg>"
 
 This mismatch is a strong indicator of phishing, as the email claims to be from Outlook but uses an untrusted domain (helwan.edu.eg).
-[image](https://github.com/user-attachments/assets/f6a1155d-97ce-4f48-b0ec-39243e702d83)
+(https://github.com/user-attachments/assets/f6a1155d-97ce-4f48-b0ec-39243e702d83)
 
-[image](https://github.com/user-attachments/assets/45c08a4a-7388-4f93-9e17-42b361a34f2a)
+(https://github.com/user-attachments/assets/45c08a4a-7388-4f93-9e17-42b361a34f2a)
