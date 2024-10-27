@@ -5,15 +5,17 @@ It covers the use of various tools and techniques to conduct a thorough phishing
 
 ## Table of Contents
 
-- [Introduction](introduction.md)
-- [Tools and Resources](tools.md)
-- [Step 1: Email Header Analysis](header-analysis.md)
-- [Step 2: Sender IP Analysis](ip-analysis.md)
-- [Step 3: SPF, DKIM, and DMARC Checks](spf-dkim-dmarc-checks.md)
-- [Step 4: Base64 Decoding](base64-decoding.md)
-- [Step 5: URL Analysis](url-analysis.md)
-- [Summary of Findings](summary-findings.md)
-- [Report](Phishing-report.md)
+- [Introduction](01-introduction.md)
+- [Tools and Resources](02-tools.md)
+- [Step 1: Email Header Analysis](03-header-analysis.md)
+- [Step 2: Sender IP Analysis](04-ip-analysis.md)
+- [Step 3: SPF, DKIM, and DMARC Checks](05-spf-dkim-dmarc-checks.md)
+- [Step 4: Base64 Decoding](06-base64-decoding.md)
+- [Step 5: URL Analysis](07-url-analysis.md)
+- [Step 6: Automated-Scaning](08-Automated-scaning.md)
+- [Summary of Findings](09-summary-findings.md)
+- [Report](10-Phishing-report.md)
+- [References](11-references.md)
 
 ## Overview
 
